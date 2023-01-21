@@ -5,5 +5,4 @@ output
 .env
 package-lock.json
 node_modules
-style.css
 .sass-cache
