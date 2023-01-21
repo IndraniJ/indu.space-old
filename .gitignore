@@ -1,0 +1,8 @@
+.venv
+__pycache__
+output
+.gitignore
+.env
+package-lock.json
+node_modules
+style.css
